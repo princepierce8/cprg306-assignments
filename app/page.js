@@ -26,11 +26,7 @@ export default function Home(){
 
       <li> <Link className= {linkStyles} href="./week-9"> Week 9 - Firebase Auth </Link> </li>
 
-      <li> <Link className= {linkStyles} href="./week-10"> Week 10 - Project Topic </Link> </li>
-
-      <li> <Link className= {linkStyles} href="./week-11"> Week 11 - Cloud Firestore </Link> </li>
-
-      <li> <Link className= {linkStyles} href="./week-12/part-1"> Week 12 - API implementation </Link> </li>
+      <li> <Link className= {linkStyles} href="./week-10"> Week 10 - Cloud Firestore </Link> </li>
 
     </ul>
 
